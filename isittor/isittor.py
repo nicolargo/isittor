@@ -3,12 +3,12 @@
 #
 # IsItTor
 #
-# Copyright (C) 2013 Nicolargo <nicolas@nicolargo.com>
+# Copyright (C) 2015 Nicolargo <nicolas@nicolargo.com>
 #
 # MIT Licence
 
 __appname__ = "IsItTor"
-__version__ = "1.0"
+__version__ = "1.2"
 __author__ = "Nicolas Hennion <nicolas@nicolargo.com>"
 __licence__ = "MIT"
 # Syntax

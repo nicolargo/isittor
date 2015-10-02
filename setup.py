@@ -12,7 +12,7 @@ def get_requires():
 
 setup(
     name='isittor',
-    version='1.0',
+    version='1.2',
     description="Check if the given <IPaddress> is a Tor exit node.",
     long_description=open('README.md').read(),
     author='Nicolas Hennion',

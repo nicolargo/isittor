@@ -3,7 +3,7 @@
 #
 # IsItTor
 #
-# Copyright (C) 2013 Nicolargo <nicolas@nicolargo.com>
+# Copyright (C) 2015 Nicolargo <nicolas@nicolargo.com>
 #
 # MIT Licence
 
