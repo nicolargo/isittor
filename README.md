@@ -4,8 +4,7 @@ IsItTor is a script to check if an IP address is a Tor exit node.
 
 Install:
 
-   # sudo pip install requests[security]
-   # sudo pip install isittor
+   # sudo pip install requests[security] isittor
 
 Usage:
 
