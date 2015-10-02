@@ -24,7 +24,7 @@ setup(
     packages=['isittor'],
     include_package_data=True,
     data_files=data_files,
-    entry_points={"console_scripts": ["isittor=isittor.isittor:main"]},
+    entry_points={"console_scripts": ["isittor=isittor:main"]},
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Console',
